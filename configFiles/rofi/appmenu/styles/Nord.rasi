@@ -1,0 +1,17 @@
+
+* {
+shade2: #1d2021;
+shade3: #232526;
+shade4: #303030;
+shade5: #8cbabaaa;
+}
+
+* {
+    border:               			@shade2;
+    border-alt:               		@shade3;
+    background:                     @shade4;
+    background-alt:                 @shade5;
+    selected:               		@shade5;
+    foreground:                     #fcebe1;
+    urgent:                         #DA4453;
+}
